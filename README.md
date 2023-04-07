@@ -32,9 +32,8 @@ Comecei minha jornada em programação em 2022 dando início a faculdade de Gest
 
 ##
 
-
 ![snake gif](https://github.com/hallen1995/hallen1995/blob/output/github-contribution-grid-snake.svg)
 
-
+</div>
 
           
